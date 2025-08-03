@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Dataset & model outputs
+data/
+outputs/
+
+# Keep the demo image for README
+!outputs/captions/demo_grid.png

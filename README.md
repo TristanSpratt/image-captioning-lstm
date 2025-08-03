@@ -70,7 +70,7 @@ outputs/captions/demo_grid.png
 
 Example outputs after training on 100 images for 3 epochs:
 
-![Caption Grid](outputs/captions/demo_grid.png)
+![Caption Grid](demo_grid.png)
 
 ---
 

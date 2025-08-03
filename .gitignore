@@ -8,6 +8,3 @@ __pycache__/
 # Dataset & model outputs
 data/
 outputs/
-
-# Keep the demo image for README
-!outputs/captions/demo_grid.png
